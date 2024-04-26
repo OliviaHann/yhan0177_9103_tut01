@@ -14,7 +14,7 @@ this is my second commit!!
 **Italic text**
 
 **lists**
--Item1
-_Item2
-_Sub item1
-_sub item2
+-Item 1
+-Item 2
+    -Sub item 1
+    -sub item 2
