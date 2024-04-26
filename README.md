@@ -21,4 +21,9 @@ this is my second commit!!
 
     **Images**
     **Remote Images**
-    ![An Image of a player](http://placekitten.com/200/300)
+    ![An Image of a player](https://placekitten.com/200/300)
+
+    **Local Images
+
+    ![The music Player](readmeImages/Spotify%20Screen%201.PNG)
+    ![the Hole](readmeImages/590bb74ce7d59d9722c957cfb2571e40.jpg)
